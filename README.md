@@ -1,4 +1,4 @@
-# KDD 2020 Tutorial on User-centric Explainability for Healthcare
+# KDD 2020 Tutorial on Human-Centered Explainability for Healthcare
 
 
 ## Goal

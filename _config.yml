@@ -1,14 +1,3 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-
-theme: jekyll-theme-tactile
-
-name: something
-title: null
+theme: jekyll-theme-slate
+title: KDD 2020 Tutorial on Human-Centered Explainability for Healthcare
+description: An ACM KDD Tutorial
