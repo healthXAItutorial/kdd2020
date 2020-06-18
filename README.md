@@ -36,6 +36,7 @@ Source Toolkit.
 * [Prithwish Chakraborty](https://prithwi.github.io), Center for Computational Health, IBM Research, USA
 * [Bum Chul Kwon](https://bckwon.com), Center for Computational Health, IBM Research, USA 
 * [Sanjoy Dey](https://researcher.watson.ibm.com/researcher/view.php?person=us-deysa), Center for Computational Health, IBM Research, USA 
+* [Amit Dhurandhar](https://researcher.watson.ibm.com/researcher/view.php?person=us-adhuran), IBM Research AI, USA
 * [Dan Gruen](https://researcher.watson.ibm.com/researcher/view.php?person=us-daniel_gruen), Center for Computational Health, IBM Research, USA
 * [Kenney Ng](https://researcher.watson.ibm.com/researcher/view.php?person=us-Kenney.Ng), Center for Computational Health, IBM Research, USA 
 * [Daby Sow](https://researcher.watson.ibm.com/researcher/view.php?person=us-sowdaby), Center for Computational Health, IBM Research, USA 
