@@ -37,7 +37,7 @@ Source Toolkit.
 
 **Pre-recorded** videos
 
-* [Part 1](https://youtu.be/HcRWGxq-w-g)
+* [Part 1](https://youtu.be/K-5C63-1Q78)
 * [Part 2](https://www.youtube.com/watch?v=fLsoHexPDdY&feature=youtu.be)
 * [Part 3](https://www.youtube.com/watch?v=zDZUyPIVJ6U#action=share)
 * [Part 4](https://youtu.be/NrHx7R1aCS://youtu.be/NrHx7R1aCSw)
