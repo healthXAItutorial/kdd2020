@@ -31,6 +31,21 @@ approaches. In the process, we will also demonstrate how to perform such
 analysis using open source tools such as the IBM AI Explainability 360 Open
 Source Toolkit.
 
+## Presentation Materials:
+
+**Slides** are available [here](https://drive.google.com/file/d/19ZK6bViVfOTBBu_o8Yu4pk7l9d7Oh-ax/view?usp=sharing)
+
+**Pre-recorded** videos
+
+* [Part 1](https://youtu.be/HcRWGxq-w-g)
+* [Part 2](https://www.youtube.com/watch?v=fLsoHexPDdY&feature=youtu.be)
+* [Part 3](https://www.youtube.com/watch?v=zDZUyPIVJ6U#action=share)
+* [Part 4](https://youtu.be/NrHx7R1aCS://youtu.be/NrHx7R1aCSw)
+* [Part 5](https://youtu.be/a_3_P3FeiZ://youtu.be/a_3_P3FeiZg)
+* [Part 6](https://youtu.be/pxa4IAjSbk0)
+* [Part 7](https://youtu.be/r4LZuwNYuYo)
+* [Part 8](https://youtu.be/Kek_O1Wmp1s)
+
 ## Presenters
 
 * [Prithwish Chakraborty](https://prithwi.github.io), Center for Computational Health, IBM Research, USA
